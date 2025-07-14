@@ -20,6 +20,7 @@ Welcome to my GitHub! I’m Jyoti, a life sciences graduate turning into a hands
 - `Google Colab`, `GitHub`, `Jupyter`
 - `FASTA`, `BLAST`, `KEGG`, `Entrez`, `SeqIO`
 
+  ![image alt](<img width="1800" height="1200" alt="Image" src="https://github.com/user-attachments/assets/914dee3b-ed12-4766-9a5f-1432f61874b7" />)
 ---
 
 ## 📁 My Projects
